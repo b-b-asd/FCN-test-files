@@ -4,9 +4,20 @@
     <title>Example Feed</title>
     <item>
       <guid>article-0001</guid>
-      <title>Success Story 1</title>
-      <description>Text of the success story 1.</description>
-      <media:content type="image/jpeg" url="https://img.magnific.com/free-photo/closeup-scarlet-macaw-from-side-view-scarlet-macaw-closeup-head_488145-3540.jpg?resize=1100%2C405"/>
+      <title>Minimal Story 1</title>
+      <description>Text of the minimal story 1.</description>
+      <media:content type="image/png" url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png"/>
+    </item>
+    <item>
+      <guid>article-0002</guid>
+      <title>Minimal Story 2</title>
+      <description>Text of the minimal story 2.</description>
+      <enclosure url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/2.png" type="image/png"/>
+    </item>
+    <item>
+      <guid>article-0003</guid>
+      <title>Minimal Story 3</title>
+      <description>Text of the minimal <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/3.png"/> story 3.</description>
     </item>
   </channel>
 </rss>

@@ -17,7 +17,7 @@
     <item>
       <guid>article-0003</guid>
       <title>Minimal Story 3</title>
-      <description>Text of the minimal <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/3.png"/> story 3.</description>
+      <description>Text of the minimal <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/3.png"> story 3.</description>
     </item>
   </channel>
 </rss>

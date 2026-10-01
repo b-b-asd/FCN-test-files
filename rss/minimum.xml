@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Example Feed</title>
+    <item>
+      <guid>article-0001</guid>
+      <title>City council approves new park</title>
+      <description>The council voted today to fund a new riverside park.</description>
+      <media:content type="image/jpeg" url="https://cdn.example.com/park.jpg"/>
+    </item>
+  </channel>
+</rss>

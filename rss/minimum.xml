@@ -7,6 +7,8 @@
       <title>Minimal Story 1</title>
       <description>Text of the minimal story 1.</description>
       <media:content type="image/png" url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png"/>
+      <media:content type="image/png" url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png"/>
+      <enclosure url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png" type="image/png"/>
     </item>
     <item>
       <guid>article-0002</guid>

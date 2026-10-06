@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Example Feed</title>
+    <item>
+      <guid>article-0001</guid>
+      <title>Minimal Story 1</title>
+      <description>Text of the minimal story 1.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+
+    <item>
+      <guid>article-0002</guid>
+      <title>Minimal Story 2</title>
+      <description>Text of the minimal story 2.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+
+    <item>
+      <guid>article-0003</guid>
+      <title>Minimal Story 3</title>
+      <description>Text of the minimal story 3.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+
+    <item>
+      <guid>article-0004</guid>
+      <title>Minimal Story 4</title>
+      <description>Text of the minimal story 1.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+
+    <item>
+      <guid>article-0005</guid>
+      <title>Minimal Story 5</title>
+      <description>Text of the minimal story 1.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+
+    <item>
+      <guid>article-0006</guid>
+      <title>Minimal Story 6</title>
+      <description>Text of the minimal story 1.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+
+    <item>
+      <guid>article-0007</guid>
+      <title>Minimal Story 7</title>
+      <description>Text of the minimal story 1.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+
+    <item>
+      <guid>article-0001</guid>
+      <title>Minimal Story 1</title>
+      <description>Text of the minimal story 1.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+
+    <item>
+      <guid>article-0008</guid>
+      <title>Minimal Story 8</title>
+      <description>Text of the minimal story 1.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+
+    <item>
+      <guid>article-0009</guid>
+      <title>Minimal Story 9</title>
+      <description>Text of the minimal story 1.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+
+    <item>
+      <guid>article-0010</guid>
+      <title>Minimal Story 10</title>
+      <description>Text of the minimal story 1.</description>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1.jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(2).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(3).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(4).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(5).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(6).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(7).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(8).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(9).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(10).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(11).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(12).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(13).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(14).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(15).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(16).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(17).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(18).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(19).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(20).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(21).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(22).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(23).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(24).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(25).jpeg"/>
+      <media:content type="image/jpeg" url="https://staging-fullcirclenews-files.s3.us-east-1.amazonaws.com/test_purpose_images/images/large/y1+-+Copy+(26).jpeg"/>
+    </item>
+  </channel>
+</rss>

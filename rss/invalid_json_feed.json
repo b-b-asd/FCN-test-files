@@ -1,0 +1,46 @@
+{
+  "rss": {
+    "version": "2.0",
+    "namespaces": {
+      "media": "http://search.yahoo.com/mrss/"
+    },
+    "channel": {
+      "title": "Example Feed",
+      "items": [
+        {
+          "guid": "article-0001",
+          "title": "Minimal Story 1",
+          "description": "Text of the minimal story 1.",
+          "media:content": [
+            {
+              "type": "image/png",
+              "url": "https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png"
+            },
+            {
+              "type": "image/png",
+              "url": "https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png"
+            }
+          ],
+          "enclosure": {
+            "url": "https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png",
+            "type": "image/png"
+          }
+        },
+        {
+          "guid": "article-0002",
+          "title": "Minimal Story 2",
+          "description": "Text of the minimal story 2.",
+          "enclosure": {
+            "url": "https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/2.png",
+            "type": "image/png"
+          }
+        },
+        {
+          "guid": "article-0003",
+          "title": "Minimal Story 3",
+          "description": "<p>Text of the minimal <img src=\"https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/3.png\"/> story 3.</p>"
+        }
+      ]
+    }
+  }
+}

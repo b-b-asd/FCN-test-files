@@ -3,6 +3,7 @@
   <channel>
     <title>Example Feed</title>
     <item>
+      <guid>article-0001</guid>
       <title>Minimal Story 1</title>
       <description1>Text of the minimal story 1.</description1>
       <media:content type="image/png" url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png"/>

@@ -5,21 +5,22 @@
     <item>
       <guid>article-0001</guid>
       <title>Minimal Story 1</title>
-      <description>Text of the minimal story 1.</description>
-      <media:content type="image/png" url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png"/>
-      <media:content type="image/png" url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png"/>
-      <enclosure url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png" type="image/png"/>
+      <description>Text of the minimal <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png" alt="Description of the image"> story 1.</description>
+      <media:content type="image/png" url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/2.png"/>
+      <media:content type="image/png" url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/3.png"/>
+      <enclosure url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/3.png" type="image/png"/>
     </item>
     <item>
       <guid>article-0002</guid>
       <title>Minimal Story 2</title>
-      <description>Text of the minimal story 2.</description>
+      <content:encoded>Text <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png" alt="Description of the image"> of the minimal story 2.</content:encoded>
       <enclosure url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/2.png" type="image/png"/>
     </item>
     <item>
       <guid>article-0003</guid>
       <title>Minimal Story 3</title>
-      <description><![CDATA[<p>Text of the minimal <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/3.png"/> story 3.</p>]]></description>
+      <description><![CDATA[<p>Text of the minimal <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png"/> story 3.</p>]]></description>
+      <content:encoded>Text <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/2.png" alt="Description of the image"> of the minimal story 1.</content:encoded>
     </item>
   </channel>
 </rss>

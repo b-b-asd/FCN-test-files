@@ -15,6 +15,7 @@
     <item>
       <guid>article-0002</guid>
       <title>Minimal Story 2</title>
+      <description>abc</description>
       <content:encoded><![CDATA[<p>Text <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png" alt="Description of the image"> of the minimal story 2.</p>]]></content:encoded>
       <enclosure url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/2.png" type="image/png"/>
     </item>

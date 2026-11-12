@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Example Feed</title>
     <item>
       <guid>article-0001</guid>
       <title>Minimal Story 1</title>
-      <description><![CDATA[<p>Text of the minimal <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png" alt="Description of the image"> story 1.</p>]]</description>
+      <description><![CDATA[<p>Text of the minimal <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png" alt="Description of the image"> story 1.</p>]]></description>
       <media:content type="image/png" url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/2.png"/>
       <media:content type="image/png" url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/3.png"/>
       <enclosure url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/3.png" type="image/png"/>
@@ -13,14 +15,14 @@
     <item>
       <guid>article-0002</guid>
       <title>Minimal Story 2</title>
-      <content:encoded><![CDATA[<p>Text <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png" alt="Description of the image"> of the minimal story 2.</p>]]</content:encoded>
+      <content:encoded><![CDATA[<p>Text <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png" alt="Description of the image"> of the minimal story 2.</p>]]></content:encoded>
       <enclosure url="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/2.png" type="image/png"/>
     </item>
     <item>
       <guid>article-0003</guid>
       <title>Minimal Story 3</title>
       <description><![CDATA[<p>Text of the minimal <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/1.png"/> story 3.</p>]]></description>
-      <content:encoded><![CDATA[<p>Text <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/2.png" alt="Description of the image"> of the minimal story 1.</p>]]</content:encoded>
+      <content:encoded><![CDATA[<p>Text <img src="https://raw.githubusercontent.com/b-b-asd/FCN-test-files/refs/heads/main/2.png" alt="Description of the image"> of the minimal story 1.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
